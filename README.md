@@ -1,5 +1,11 @@
 ### README FOR GEO-PUZZLE
 
+Lately, with the advent of the GPS, people have been getting into an activity called geocaching, where people have to use
+their GPS to track down specific boxes to containers that contain something inside of them. Based on that idea, I worked in a team to create Virtual-Geopuzzle, an app where one can leave video and audio files so that when someone gets to a particular location, these files start playing to let someone know where they should go next to find the next clue. This continues until the user reaches a 
+particular location, and they have won the game. 
+This app was created for entertainment purposes to get the user interested in playing puzzles with their friends
+as use of their free time.
+
 #### Development Environment Setup for Rails Server
 
 Install Docker or Docker Toolbox (Device Specific)
